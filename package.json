@@ -1,7 +1,7 @@
 {
   "homepage": "https://amrit22102.github.io/gemini-ai-2024",
   "name": "vite-project",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
